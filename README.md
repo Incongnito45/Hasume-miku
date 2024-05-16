@@ -2,7 +2,7 @@
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
 <a href="http://wa.me/+57317422455" target="blank"><img src="https://img.shields.io/badge/OFC-ALEX_GARCIA_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/573174222455" target="blank"><img src="https://img.shields.io/badge/OFC-naide_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/+34633807936" target="blank"><img src="https://img.shields.io/badge/OFC-naide_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### `⛄GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
