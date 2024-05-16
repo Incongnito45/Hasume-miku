@@ -135,7 +135,7 @@ npm start
 - HATSUNE-MIKU - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 
 
-## `CREADO POR OFC-alex,naide` 
+## `CREADO POR OFC-alex,naide✓` 
 <a href=""><img src="https://i.imgur.com/JP52fdP.jpg" width="250" height="250" alt="YOVANI"/></a>
   
-`HATSUNE-MIKU-ULTRA - By YOVANI`
+`HATSUNE-MIKU-ULTRA - By Alex García√`
