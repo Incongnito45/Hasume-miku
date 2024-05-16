@@ -117,15 +117,6 @@ npm start
 ```bash
 > npm start
 ```
-
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/OFC-YOVANI/HATSUNE-MIKU/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
-- Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
-- Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
-- Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
-- Tutorial: [https://youtu.be/eC9TfKICpcY](https://youtu.be/Gn-ESCcdFGw)
-- Dudas UNICAMENTE SOBRE EL HOST: [https://discord.gg/84qsr4v](https://discord.gg/84qsr4v) (Preguntar por Vicemi)
-
 ### `—◉ 📝 NOTAS 📝`
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
 - SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
