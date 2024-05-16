@@ -70,7 +70,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git && cd HATSUNE-MIKU-ULTRA
+git clone https://github.com/Incongnito45/Hasume-miku && cd HATSUNE-MIKU-ULTRA
 ```
 
 ```bash
