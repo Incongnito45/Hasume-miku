@@ -25,7 +25,7 @@
 
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/OFC-YOVANI/HATSUNE-MIKU-ULTRA)](https://repl.it/github/OFC-YOVANI/HATSUNE-MIKU-ULTRA)
+[![Run on Repl.it](no disponible)](no disponible)
 
 ### `—◉ 💥 ACTIVAR EN KOYEB 💥`
 
@@ -35,8 +35,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Incongnito45/Hasume-miku)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](no disponible...)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾
 PRIMERA OPCIÓN `
@@ -94,7 +94,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HATSUNE-MIKU-ULTRA
+> cd a un no disponible.
 ```
 
 ```bash
