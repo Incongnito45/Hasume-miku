@@ -23,16 +23,6 @@
 ### `—◉ 💡 EXPERIMENTA CON UNA IA PARA NUEVOS COMANDOS 💡`
 - PAGINA [Aqui](https://beta.openai.com/playground)
 
-### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
-
-[![Run on Repl.it](no disponible)](no disponible)
-
-### `—◉ 💥 ACTIVAR EN KOYEB 💥`
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/OFC-YOVANI/HATSUNE-MIKU&branch=master&name=Hatsunemikubot)
-
-### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/Incongnito45/Hasume-miku)
